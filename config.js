@@ -1,4 +1,4 @@
-const nameGirl =anh yeu em
+const nameGirl =anh yeu em'
 const giftUrl = http://nodemy.vn
 con  titleCard = 'Tặng người ấy';
 const contentCard = 'Chúc honey của anh 20/10 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau';
